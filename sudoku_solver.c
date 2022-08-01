@@ -1,5 +1,3 @@
-/* Do not make any changes in the skeleton. Your submission will be invalidated if the skeleton is changed */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
